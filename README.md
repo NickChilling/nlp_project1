@@ -1,5 +1,23 @@
 # nlp_project1
 
+## TODO
+
+### Project 2
+
+Auto Summarize
+
+extractive 
+
+- [ ] 模型
+- [ ] 前端页面
+- [ ] 后端转发请求 -> Flask 简单
+
+## Model 2 
+无监督方法 -> 
+1. 2017 PrinceTon  Sentence Vector -> document vector 
+
+求解与document相近的k个句子. 
+
 ## 分支管理
 
 `master` 作为主分支，这个分支不能直接`commit` 或者 `merge`.
